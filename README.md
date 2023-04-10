@@ -1,2 +1,15 @@
-# cmb-react-cli
-react框架的定制化脚手架
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
